@@ -1,21 +1,19 @@
 bulkshell
 =========
 
-Shell script via Bulk API
+Shell script via Salesforce Bulk API
 
 _Shell script via Salesforce Bulk API_
 
 ## Usage
 
-1. Modify username@domain and password at login.xml
-
+1.Modify username@domain and password at login.xml 
 ```
 <n1:username>username@domain</n1:username>
 <n1:password>password</n1:password>
 ```
 
-2. Run bulkrun.sh
-
+2.Run bulkrun.sh 
 ```
 $ ./bulkrun.sh
 ```
